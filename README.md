@@ -167,5 +167,4 @@ alex@ubuntu:~/c/printf$
 - Francis Kwofie (francisskwofie01@gmail.com)
 
 
-[filename](./filename)
 ![GitHub contributors](https://img.shields.io/github/contributors/bedzon94/printf)
