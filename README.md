@@ -107,9 +107,9 @@ alex@ubuntu:~/c/printf$
 
 [8. The big print gives and the small print takes away](./get_flag.c)
 - Handle the following flag characters for non-custom conversion specifiers:
-   - +
+   - (+)
    - space
-   - #
+   - (#)
 
 ##
 
