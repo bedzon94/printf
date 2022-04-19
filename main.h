@@ -18,6 +18,7 @@ int _printstring(char *s);
 int rot13(char *point);
 int print_rev(char *);
 int print_hl(uintptr_t n);
+void _puts(char *str);
 
 
 #endif
