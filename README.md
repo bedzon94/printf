@@ -1,7 +1,7 @@
 # 0x11. C - printf
 
 ## Description
-We have created a fuction printf similar to the real printf. The function should produce an output according to a specific format just like printf
+We have created a function printf similar to the real printf. The function should produce an output according to a specific format just like printf
 
 ## Table of contents
 
@@ -15,7 +15,7 @@ Files | Content
 [print_unsigned.c](./print_unsigned.c) | Prints unsigned integers.
 [_printstring.c](./_printstring.c) | Prints the strings you want. 
 [man_3_printf](./man_3_printf) | Our beautiful manual with full documentation.
-[print_bi.c](./print_bi.c) | Converts decimals to binarys
+[print_bi.c](./print_bi.c) | Converts decimals to binaries
 [print_hexalower.c](./print_hexalower.c) | Prints hexadecimals in lowercase
 [print_hexaup.c](./print_hexaup.c) | Prints hexadecimals in UPPERCASE
 [print_rev.c](./print_rev.c) | Prints a string in reverse
